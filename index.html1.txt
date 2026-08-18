@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Website Profil Saya</title>
+</head>
+<body>
+    <h1>Halo, saya Lubna</h1>
+    <p>Selamat datang di website pertama saya. Saya adalah siswa kelas 12 di MA Nurussunnah</p>
+<h2>Tentang Saya</h2>
+<p>Saya sedang belajar membuat website dan menggugahnya ke internet menggunakan GitHub Pages. Ternyata membuat website itu seru!</p>
+<h2>Hobi saya:</h2>
+<ul>
+<li>[Hobi ke-1: baking]</li>
+<li>[Hobi ke-2: membaca manhwa]</li>
+<li>[Hobi ke-3: menonton anime]</li>
+</ul>
+
+<hr>
+<p><i>Website ini dibuat pada tahun 2026 sebagai tugas praktik kelas</i></p>
+</body>
+</html>
